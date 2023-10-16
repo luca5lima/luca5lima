@@ -1,10 +1,17 @@
 ### Olá! eu sou o Lucas, Estudante de Sistema de Informação 👋
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=merko)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=blue-green)
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luca5lima&theme=blue-green)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-l-7a3368122/)
 
 ## IDE 👩‍💻
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="vsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="vsCode" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+</div>
 
 ## Tecnologias que eu uso 💻
 
@@ -16,7 +23,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) -->
