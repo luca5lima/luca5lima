@@ -1,6 +1,7 @@
 ### Olá! eu sou o Lucas, Estudante de Sistema de Informação 💻
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=merko)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=merko) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <!--
 **luca5lima/luca5lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
