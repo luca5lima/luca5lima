@@ -1,6 +1,10 @@
-## Olá! eu sou o Lucas, Estudante de Sistema de Informação 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+sou+Lucas+Lima+Cavalcante;+Estudante+de+Sistema+de+Informação+da+UFC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca5lima&show_icons=true&theme=blue-green)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luca5lima&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-c/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucaslimoa2000@gmail.com)
@@ -27,6 +31,8 @@
 ### Stats
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luca5lima&theme=blue-green)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) -->
 
